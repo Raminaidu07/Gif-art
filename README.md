@@ -5,7 +5,7 @@ Here's a step-by-step guide on how to create GIF art using ezgif.com:
 **Prepare your artwork**: Before you start creating your GIF, you'll need to have your artwork ready. 
 This could be a series of images, a video clip, or any other content you want to turn into a GIF.
 **Navigate to ezgif.com:** Open your web browser and go to ezgif.com.
-**Upload your conentt:** Once on the ezgif.com website, locate the "Upload Video" or "Upload Images" button, depending on the type of content you have. 
+**Upload your content:** Once on the ezgif.com website, locate the "Upload Video" or "Upload Images" button, depending on the type of content you have. 
 Click on it and select the files you want to use for your GIF art from your computer.
 **Edit your content (optional):** ezgif.com provides various editing options that you can use to customize your GIF. 
 You can crop, resize, rotate, apply effects, and more to your content. Experiment with these tools to achieve the desired look for your GIF art.
